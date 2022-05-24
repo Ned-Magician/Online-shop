@@ -1,2 +1,2 @@
 # Online-shop
-This is a temple of online shop
+This is a developed online shop
